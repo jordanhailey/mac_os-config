@@ -9,15 +9,37 @@
 
 ## Download
 
-### Visual Studio Code
+### General
+#### Chrome
+- https://www.google.com/chrome/downloads/
+
+#### Cron
+- https://cron.com/download/macos
+
+#### Bitwarden
+> (Preferred)
+- https://bitwarden.com/download/
+
+#### 1Password
+> (For Work)
+- https://1password.com/mac/
+
+#### Obsidian.md
+- https://obsidian.md/
+
+#### Zoom
+- https://zoom.us/download
+
+#### Magnet
+- https://apps.apple.com/us/app/magnet/id441258766
+
+### Development
+#### Visual Studio Code
 - https://code.visualstudio.com/download
     >_**NOTE**: Remember to [install `code` CLI tools](https://code.visualstudio.com/docs/editor/command-line)_
 
-### Postman
+#### Postman
 - https://www.postman.com/downloads/)
-
-### Obsidian.md
-- https://obsidian.md/
 
 ---
 ## CLI Install
