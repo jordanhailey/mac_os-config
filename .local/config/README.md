@@ -23,7 +23,7 @@ brew install gh
 - Once logged in with `gh`, clone this repo with the following command 
 	```sh
 	cd $HOME
-	gh clone jordanhailey/mac_os-config $HOME/.cfg -- --bare
+	gh repo clone jordanhailey/mac_os-config $HOME/.cfg -- --bare
 	```
 
 - After repo is cloned, attempt a `checkout`
