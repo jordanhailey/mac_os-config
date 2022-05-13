@@ -24,6 +24,9 @@
 > (For Work)
 - https://1password.com/mac/
 
+#### Todoist
+> https://todoist.com/downloads/mac
+
 #### Obsidian.md
 - https://obsidian.md/
 
