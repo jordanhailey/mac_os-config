@@ -4,5 +4,11 @@ alias config='/usr/bin/git --git-dir=/Users/jordan/.cfg/ --work-tree=/Users/jord
 
 # Load Homebrew (install required)
 ## Installation steps https://mac.install.guide/homebrew/index.html
-eval "$(/opt/homebrew/bin/brew shellenv)"
+## Uncomment line below when using a Apple Silicon chip 
+# eval "$(/opt/homebrew/bin/brew shellenv)"
 
+# Setting PATH for Python 3.9
+## The original version is saved in .zprofile.pysave
+## Uncomment line below when using Python 3+
+PATH="/Library/Frameworks/Python.framework/Versions/3.9/bin:${PATH}"
+export PATH
