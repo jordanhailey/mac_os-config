@@ -1,6 +1,6 @@
 # Setup 'config' alias to save config files
 ## https://www.atlassian.com/git/tutorials/dotfiles
-alias config='/usr/bin/git --git-dir=/Users/jordan/.cfg/ --work-tree=/Users/jordan'
+alias config='/usr/bin/git --git-dir=$HOME/.cfg/ --work-tree=$HOME/'
 
 # Load Homebrew (install required)
 ## Installation steps https://mac.install.guide/homebrew/index.html
